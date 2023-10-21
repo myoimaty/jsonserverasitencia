@@ -20,5 +20,15 @@
       "docente": "polima",
       "id": 4
     }
+  ],
+
+  "usuarios":[
+    {
+      "id": 1,
+      "nombre": "Ejemplo Usuario",
+      "email": "usuario@example.com",
+      "password": "contraseña123"
+    }
+
   ]
 }
