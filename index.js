@@ -6,4 +6,4 @@ const port = process.env.PORT || 3002; // se puede usar cualquier port
 
 server.use(middlewares);
 server.use(router);
-server.use(port);
+server.listen(port);
