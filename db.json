@@ -24,7 +24,8 @@
 
   "usuarios":[
     {
-
+      "email": "prueba",
+      "password": "12345"
     }
 
   ]
