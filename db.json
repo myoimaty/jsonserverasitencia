@@ -27,6 +27,11 @@
       "id": "1",
       "email": "prueba",
       "password": "12345"
+    },
+    {
+      "id": "2",
+      "email": "prueba@profesorduoc.cl",
+      "password": "12345"
     }
 
   ]
